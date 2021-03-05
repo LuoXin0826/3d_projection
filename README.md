@@ -2,8 +2,8 @@
 This repo contains ros package for publishing 3D landmark pose and ID for robotX boat.
 
 ## Input topics:
-/darknet_ros/bounding_boxes
-/wamv/sensors/lidars/lidar_wamv/points
+/darknet_ros/bounding_boxes<br/> 
+/wamv/sensors/lidars/lidar_wamv/points<br/> 
 
 ## Output topics:
 /boat_frame_landmark_pose_with_id
